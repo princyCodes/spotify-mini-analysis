@@ -10,8 +10,20 @@ This project analyzes Spotify data and visualizes key trends using Python.
 - `visuals/` – Folder containing generated plots
 
 ## Features
+- Fetches data from Spotify using Spotipy
 - Visualizes top artists, genres, and track features
 - Quick insights into Spotify listening trends
+
+## Sample Visualizations
+
+### Bar Chart – Top Artists
+![Top Artists Bar Chart](visuals/top_artists.png)
+
+### Pie Chart – Genre Distribution
+![Genre Pie Chart](visuals/genre_distribution.png)
+
+### Histogram – popularity Distribution
+![Popularity Histogram](visuals/popularity_hist.png)
 
 ## How to Use
 1. Clone the repository
@@ -20,4 +32,5 @@ This project analyzes Spotify data and visualizes key trends using Python.
 
 ## Author
 Princy Singh
+
 
